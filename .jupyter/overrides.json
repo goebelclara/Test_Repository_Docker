@@ -1,0 +1,13 @@
+{
+  "@jupyterlab/notebook-extension:tracker": {
+    "codeCellConfig": {
+      "autoClosingBrackets": true
+    },
+    "markdownCellConfig": {
+      "autoClosingBrackets": true
+    },
+    "rawCellConfig": {
+      "autoClosingBrackets": true
+    }
+  }
+}
